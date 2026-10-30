@@ -1,0 +1,155 @@
+[
+  {
+    "id": "snake",
+    "title": "Neon Snake",
+    "genre": "Arcade",
+    "price": 4.99,
+    "rating": 4.7,
+    "year": 2026,
+    "developer": "SteamLite Studios",
+    "icon": "🐍",
+    "colors": ["#00c9a7", "#0a6b8c"],
+    "featured": true,
+    "tagline": "La serpiente clásica, con luces de neón.",
+    "description": "Guía a tu serpiente por la cuadrícula, devora la comida brillante y crece sin chocar contigo misma ni con los muros. Fácil de aprender, imposible de soltar: cada punto cuenta y cada segundo se acelera.",
+    "controls": "Flechas o W A S D para moverte.",
+    "route": "/play/snake",
+    "screenshots": [
+      { "caption": "Modo clásico en cuadrícula", "icon": "🐍" },
+      { "caption": "Comida con brillo neón", "icon": "🍎" },
+      { "caption": "Récords guardados en tu equipo", "icon": "🏆" }
+    ],
+    "reviews": [
+      { "user": "Kiara_77", "rating": 5, "text": "Súper adictivo, el estilo neón se ve increíble." },
+      { "user": "TitoGamer", "rating": 4, "text": "Controles muy precisos. Me gustaría más velocidades." },
+      { "user": "Lucero", "rating": 5, "text": "Perfecto para jugar en los descansos." }
+    ]
+  },
+  {
+    "id": "breakout",
+    "title": "Brick Blaster",
+    "genre": "Arcade",
+    "price": 6.99,
+    "rating": 4.8,
+    "year": 2026,
+    "developer": "SteamLite Studios",
+    "icon": "🧱",
+    "colors": ["#ff6b6b", "#7b2ff7"],
+    "featured": true,
+    "tagline": "Rompe todos los ladrillos y domina el rebote.",
+    "description": "Controla la paleta, lanza la pelota y destruye muros de ladrillos de colores. Ajusta tu ángulo de rebote, cuida tus tres vidas y consigue la puntuación más alta antes de que la pelota se escape.",
+    "controls": "Mouse o flechas ← → para mover. Espacio o clic para lanzar.",
+    "route": "/play/breakout",
+    "screenshots": [
+      { "caption": "Seis filas de ladrillos de colores", "icon": "🧱" },
+      { "caption": "Rebotes con ángulo dinámico", "icon": "⚪" },
+      { "caption": "Tres vidas para lograr la victoria", "icon": "❤️" }
+    ],
+    "reviews": [
+      { "user": "Marcoss", "rating": 5, "text": "El mejor juego del catálogo, muy fluido." },
+      { "user": "Aylin_M", "rating": 5, "text": "Me recordó a mi infancia, con gráficos preciosos." },
+      { "user": "Dragón99", "rating": 4, "text": "Muy divertido, un poco difícil al final." }
+    ]
+  },
+  {
+    "id": "pong",
+    "title": "Pong Pro",
+    "genre": "Deportes",
+    "price": 3.99,
+    "rating": 4.5,
+    "year": 2025,
+    "developer": "Retro Labs",
+    "icon": "🏓",
+    "colors": ["#f7b733", "#fc4a1a"],
+    "featured": false,
+    "tagline": "El duelo clásico contra la máquina.",
+    "description": "Enfréntate a una IA que no perdona. El primero en llegar a 7 puntos gana. La pelota acelera con cada golpe, así que mantén los reflejos afinados.",
+    "controls": "Mouse, flechas ↑ ↓ o W / S para mover tu paleta.",
+    "route": "/play/pong",
+    "screenshots": [
+      { "caption": "Duelo contra la IA", "icon": "🏓" },
+      { "caption": "Marcador a 7 puntos", "icon": "🥇" },
+      { "caption": "La pelota acelera en cada golpe", "icon": "⚡" }
+    ],
+    "reviews": [
+      { "user": "Rafa_P", "rating": 4, "text": "La IA es justa y desafiante." },
+      { "user": "Sofi.dev", "rating": 5, "text": "Simple, limpio y divertido." }
+    ]
+  },
+  {
+    "id": "memory",
+    "title": "Memory Match",
+    "genre": "Puzzle",
+    "price": 0,
+    "rating": 4.3,
+    "year": 2025,
+    "developer": "Retro Labs",
+    "icon": "🃏",
+    "colors": ["#6a11cb", "#2575fc"],
+    "featured": false,
+    "tagline": "Encuentra todas las parejas. Gratis.",
+    "description": "Voltea las cartas, memoriza su posición y encuentra las ocho parejas con la menor cantidad de movimientos y el menor tiempo posible. Un clásico gratuito para entrenar la mente.",
+    "controls": "Haz clic en las cartas para voltearlas.",
+    "route": "/play/memory",
+    "screenshots": [
+      { "caption": "Tablero de 16 cartas", "icon": "🃏" },
+      { "caption": "Contador de movimientos y tiempo", "icon": "⏱️" },
+      { "caption": "Puntuación según tu eficiencia", "icon": "⭐" }
+    ],
+    "reviews": [
+      { "user": "AbueloTech", "rating": 5, "text": "Gratis y muy bien hecho." },
+      { "user": "Nati", "rating": 4, "text": "Ideal para relajarse un rato." }
+    ]
+  },
+  {
+    "id": "2048",
+    "title": "Fusión 2048",
+    "genre": "Puzzle",
+    "price": 2.99,
+    "rating": 4.6,
+    "year": 2026,
+    "developer": "SteamLite Studios",
+    "icon": "🔢",
+    "colors": ["#f2994a", "#eb5757"],
+    "featured": true,
+    "tagline": "Desliza, une y llega a 2048.",
+    "description": "Desliza las fichas para combinar números iguales y alcanzar la ficha 2048. Planifica cada movimiento: un tablero lleno significa que la partida terminó.",
+    "controls": "Flechas o W A S D. En celular, desliza el dedo.",
+    "route": "/play/2048",
+    "screenshots": [
+      { "caption": "Tablero 4×4 elegante", "icon": "🔢" },
+      { "caption": "Fichas con colores progresivos", "icon": "🎨" },
+      { "caption": "Soporta pantalla táctil", "icon": "👆" }
+    ],
+    "reviews": [
+      { "user": "Gael", "rating": 5, "text": "Me tuvo horas pegado, muy pulido." },
+      { "user": "Valeria_R", "rating": 4, "text": "Los colores de las fichas son hermosos." },
+      { "user": "Juanse", "rating": 5, "text": "Funciona perfecto en el celular." }
+    ]
+  },
+  {
+    "id": "skyhop",
+    "title": "Sky Hop",
+    "genre": "Casual",
+    "price": 5.49,
+    "rating": 4.4,
+    "year": 2026,
+    "developer": "Cloud Nine Games",
+    "icon": "🚀",
+    "colors": ["#2193b0", "#6dd5ed"],
+    "featured": true,
+    "tagline": "Vuela entre tuberías sin tocar ninguna.",
+    "description": "Toca para impulsar tu cohete y esquiva las columnas. Un solo error termina la partida: ¿cuántas puertas puedes atravesar en un solo vuelo?",
+    "controls": "Espacio, flecha ↑ o clic / toque para impulsarte.",
+    "route": "/play/skyhop",
+    "screenshots": [
+      { "caption": "Cielo despejado, vuelo infinito", "icon": "☁️" },
+      { "caption": "Esquiva columnas cada vez más juntas", "icon": "🚀" },
+      { "caption": "Un toque, un salto", "icon": "👆" }
+    ],
+    "reviews": [
+      { "user": "Pablito", "rating": 4, "text": "Difícil pero justo. Muy divertido." },
+      { "user": "Camila", "rating": 5, "text": "Gráficos limpios y controles perfectos." }
+    ]
+  }
+]
